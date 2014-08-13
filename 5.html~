@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>JavaScript</title>
+</head>	
+
+<body>
+	<script type="text/javascript">
+	confirm('Are you sure?');
+	prompt('Enter a value: ');
+	</script>	
+</body>
+</html>
